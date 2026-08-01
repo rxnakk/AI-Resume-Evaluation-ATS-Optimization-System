@@ -123,7 +123,7 @@ AI Resume Evaluator/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Resume-Evaluation-ATS-Optimization-System.git
+git clone https://github.com/rxnakk/AI-Resume-Evaluation-ATS-Optimization-System.git
 ```
 
 Move to the project directory.
@@ -266,7 +266,20 @@ Master of Computer Applications (MCA)
 This project was developed as part of academic learning to demonstrate the integration of Machine Learning, Natural Language Processing, Retrieval-Augmented Generation (RAG), and Generative AI in an intelligent resume evaluation system.
 
 ---
+# Acknowledgements
 
+This project was developed using the following open-source resources:
+
+- Kaggle – Public Resume Dataset used for training the resume classification model.
+- Google Gemini API – AI-powered resume feedback and career assistant.
+- Sentence Transformers – Semantic similarity analysis.
+- Scikit-learn – Machine learning model development.
+- FastAPI – Backend REST API.
+- React.js – Frontend development.
+
+Dataset Source:
+
+https://www.kaggle.com/datasets/rayyankauchali0/resume-dataset
 # License
 
 This project is intended for educational and learning purposes.

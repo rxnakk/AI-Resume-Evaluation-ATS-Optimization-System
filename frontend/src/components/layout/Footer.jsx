@@ -15,14 +15,14 @@ export default function Footer() {
                 AI Resume Evaluation & ATS Optimization System
               </p>
               <p className="text-slate-500 text-xs mt-0.5">
-                Final Year Project — Developer: [Your Name]
+                Final Year Project — Developer: [Ronak Kapadia]
               </p>
             </div>
           </div>
 
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com"
+              href="https://github.com/rxnakk"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors text-sm"
