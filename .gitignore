@@ -1,0 +1,33 @@
+# ==========================
+# Python
+# ==========================
+venv/
+__pycache__/
+*.pyc
+.env
+
+# ==========================
+# Frontend
+# ==========================
+frontend/node_modules/
+frontend/dist/
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# Uploads
+# ==========================
+backend/uploads/*
+uploads/*
+
+# Keep upload folders
+!backend/uploads/.gitkeep
+!uploads/.gitkeep
+
+# ==========================
+# Logs
+# ==========================
+*.log
