@@ -239,13 +239,25 @@ The assistant automatically builds context from the latest evaluation, enabling 
 Add screenshots of:
 
 - Home Page
+  <img width="1893" height="998" alt="image" src="https://github.com/user-attachments/assets/6c0daf26-01d8-4bc9-83ec-f2996646b1f4" />
+
 - Resume Upload
+  <img width="1452" height="1009" alt="image" src="https://github.com/user-attachments/assets/9d477bfb-260d-4976-8393-dff69626c0f8" />
+
 - Resume Evaluation Dashboard
+  <img width="1568" height="755" alt="image" src="https://github.com/user-attachments/assets/a1f5ada8-5407-4ae3-8e6a-ca4a090697ad" />
+
 - ATS Score
+  <img width="1500" height="999" alt="image" src="https://github.com/user-attachments/assets/405326c3-574d-4c87-a63c-7ff6da55d3e0" />
+
 - Semantic Similarity Analysis
-- Skill Gap Analysis
-- AI Resume Feedback
+ <img width="1727" height="823" alt="image" src="https://github.com/user-attachments/assets/9cb83ee1-2a02-4cbf-af7a-dbef15b34df4" />
+
+- Skill Gap Analysis & AI Resume Feedback
+ <img width="1713" height="999" alt="image" src="https://github.com/user-attachments/assets/5d05c70d-7f0e-4341-a64f-e226249e3ff3" />
+
 - AI Career Assistant
+<img width="1666" height="966" alt="image" src="https://github.com/user-attachments/assets/9d9be231-b0de-480e-8d72-f81b0c77fa04" />
 
 ---
 
